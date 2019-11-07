@@ -13,7 +13,17 @@ The models can grossly be divided into two categories: Exogeneous growth and End
 Parameters: 
 
 * s = savings
-* d = depreciation
+* d = depreciation rate
 * n = rate of population growth
 * g = rate of technological progress
+
+# Endogenous growth models
+
+## AK model
+
+Parameters:
+
+* s = savings
+* d = depreciation rate
+* A = technologial coeficient
 
